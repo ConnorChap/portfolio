@@ -3,7 +3,7 @@ import { ReviewOnScroll } from "../ReviewOnScroll"
 export const About = () => {
 
     const frontEndSkills = ["html", "css", "JavaScript/TypeScript", "React"]
-    const backEndSkills = ["Java", "Python", "C++", "C"]
+    const backEndSkills = ["Java", "Python", "C++", "C", "C#"]
     const devSkills = ["Git", "GitHub", "PostMan", "Maven", "Gradle", "Make", "Firebase"]
 
 
